@@ -16,7 +16,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayna-gimenez&layout=compact&langs_count=7&theme=transparent"/>
 
   <br/>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thayna-gimenez&theme=swift)](https://git.io/streak-stats)
   <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thayna-gimenez&layout=compact&langs_count=7&theme=transparent" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thayna-gimenez&layout=compact&langs_count=7&theme=swift" /></p>
 </div>
