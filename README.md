@@ -6,7 +6,7 @@
 
 📫 Meu e-mail é `thaynagmnz@gmail.com`, estou sempre aberta a novos projetos e oportunidades!
 
-<div align="center">
+<div align="justify">
 
   <br/>
   <br/>
