@@ -7,3 +7,9 @@
 📫 Meu e-mail é `thaynagmnz@gmail.com`, estou sempre aberta a novos projetos e oportunidades!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thayna-gimenez&theme=transparent&locale=pt_BR)](https://git.io/streak-stats)
+
+<div>
+    <a href="https://github.com/lucianostuart">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thayna-gimenez&show_icons=true&theme=chartreuse-light&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayna-gimenez&layout=compact&langs_count=7&theme=chartreuse-light"/>
+</div>
