@@ -6,4 +6,6 @@
 
 📫 Meu e-mail é `thaynagmnz@gmail.com`, estou sempre aberta a novos projetos e oportunidades!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thayna-gimenez&theme=swift)](https://git.io/streak-stats)
+<div align = "center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thayna-gimenez&theme=swift)](https://git.io/streak-stats)
+  </div>
